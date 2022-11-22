@@ -1,0 +1,5 @@
+selenium==4.5.0
+pandas==1.5.1
+webdriver-manager==3.8.4
+requests-html==0.10.0
+packaging==21.3
